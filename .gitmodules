@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/mss-boot-dev/development-platform.git
+	url = https://${CUSTOM_GITHUB_TOKEN}:x-oauth-basic@github.com/mss-boot-dev/development-platform.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/mss-boot-dev/development-platform-ui.git
+	url = https://${CUSTOM_GITHUB_TOKEN}:x-oauth-basic@github.com/mss-boot-dev/development-platform-ui.git
