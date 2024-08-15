@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mss-boot-dev/development-platform.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mss-boot-dev/development-platform-ui.git

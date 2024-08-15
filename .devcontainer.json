@@ -1,0 +1,16 @@
+{
+    "name": "Development Platform Codespaces",
+    "workspaceFolder": "/workspaces/development-platform-codespaces",
+    "service": "app",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode",
+                "golang.go"
+            ]
+        }
+    },
+    "forwardPorts": [8000, 8080]
+}
+  
